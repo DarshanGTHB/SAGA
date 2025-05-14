@@ -38,4 +38,4 @@ def orchestrate(order_id: int):
     print("✅ Saga completed successfully 🎉")
 
 if __name__ == "__main__":
-    orchestrate(order_id=2)  # Change to 2 to simulate failure
+    orchestrate(order_id=1)  # Change to 2 to simulate failure
