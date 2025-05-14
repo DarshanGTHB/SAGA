@@ -1,4 +1,4 @@
-➡️ Starting saga for Order ID: 2
+➡️ Starting saga for Order ID: 2 <br>
 🛒 Order created: {'id': 6}
 💳 Payment response: 500 {"status":"fail"}
 ❌ Payment failed: 500 Server Error: Internal Server Error for url: http://localhost:8002/pay
